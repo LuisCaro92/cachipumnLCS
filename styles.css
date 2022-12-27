@@ -1,0 +1,30 @@
+.ganaA {
+
+    text-align: center;
+   background-color: aliceblue;
+   width: 500px;
+}
+
+.ganaB {
+    text-align: center;
+    background-color: aliceblue;
+    width: 500px;
+}
+
+.empateAB {
+    text-align: center;
+    background-color: aliceblue;
+    width: 500px;
+ 
+}
+
+body {
+    background: url(https://media.giphy.com/media/T1WqKkLY753dZghbu6/giphy.gif);
+
+  }
+  .cuerpo{
+position: relative; 
+ padding: 200px;
+ left: 200px;
+
+  }
